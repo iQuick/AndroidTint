@@ -1,4 +1,4 @@
-package me.imli.tintlib.tintxx;
+package me.imli.tintlib.tint;
 
 import android.content.res.ColorStateList;
 import android.graphics.PorterDuff;

@@ -13,8 +13,6 @@ import android.support.v4.util.LruCache;
 import android.support.v7.widget.TintManager;
 import android.util.Log;
 
-import me.imli.tintlib.tintxx.TintInfo;
-
 /**
  * Created by Em on 2016/1/27.
  */

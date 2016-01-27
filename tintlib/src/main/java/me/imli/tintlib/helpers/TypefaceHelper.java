@@ -1,4 +1,4 @@
-package me.imli.tintlib.helper;
+package me.imli.tintlib.helpers;
 
 import android.content.Context;
 import android.graphics.Typeface;

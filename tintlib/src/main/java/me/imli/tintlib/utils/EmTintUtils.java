@@ -1,6 +1,5 @@
-package me.imli.tintlib.helper;
+package me.imli.tintlib.utils;
 
-import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.res.ColorStateList;
 import android.graphics.PorterDuff;
@@ -20,12 +19,12 @@ import android.widget.ProgressBar;
 import android.widget.RadioButton;
 import android.widget.SeekBar;
 
-import me.imli.tintlib.R;
+import me.imli.tintlib.helpers.ThemeHelper;
 
 /**
- * Tints widgets
+ * Created by Em on 2016/1/27.
  */
-public class MDTintHelper {
+public class EmTintUtils {
 
     public static void setTint(@NonNull Button button, @ColorInt int color) {
         ColorStateList s1 = ColorStateList.valueOf(color);
