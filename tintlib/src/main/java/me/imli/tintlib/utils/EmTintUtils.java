@@ -20,9 +20,10 @@ import android.widget.RadioButton;
 import android.widget.SeekBar;
 
 import me.imli.tintlib.helpers.ThemeHelper;
+import me.imli.tintlib.R;
 
 /**
- * Created by Em on 2016/1/27.
+ * Created by Em on 2016/1/03.
  */
 public class EmTintUtils {
 

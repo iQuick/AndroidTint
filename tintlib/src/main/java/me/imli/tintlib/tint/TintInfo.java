@@ -4,7 +4,7 @@ import android.content.res.ColorStateList;
 import android.graphics.PorterDuff;
 
 /**
- * Created by geminiwen on 15/12/3.
+ * Created by Em on 2016/1/03.
  */
 public class TintInfo {
     public ColorStateList mTintList;

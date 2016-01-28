@@ -4,7 +4,9 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.support.v4.util.SimpleArrayMap;
 
-
+/**
+ * Created by Em on 2016/1/03.
+ */
 public class TypefaceHelper {
 
     private static final SimpleArrayMap<String, Typeface> cache = new SimpleArrayMap<>();

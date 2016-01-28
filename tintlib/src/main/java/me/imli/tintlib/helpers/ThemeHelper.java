@@ -15,7 +15,7 @@ import android.view.View;
 
 
 /**
- * @author Aidan Follestad (afollestad)
+ * Created by Em on 2016/1/03.
  */
 public class ThemeHelper {
 
