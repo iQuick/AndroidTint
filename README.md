@@ -24,3 +24,13 @@ Step 2. Add the dependency
 >	        compile 'com.github.iQuick:AndroidTint:-SNAPSHOT'
 >
 >	}
+
+## Use
+setTint
+
+>        AppCompatEditText et1 = (AppCompatEditText) findViewById(R.id.et_1);
+         AppCompatEditText et2 = (AppCompatEditText) findViewById(R.id.et_2);
+
+         EmTintUtils.setTint(et1, 0xffff00ff);
+         EmTintUtils.setTint(et2, 0xff00ffff);
+

@@ -12,6 +12,9 @@ import me.imli.tintlib.helpers.EmBackgroundTintHelper;
 import me.imli.tintlib.tint.TintInfo;
 
 /**
+ *
+ * 自定义 AppCompatView
+ *
  * Created by Em on 2016/1/27.
  */
 public class AppCompatView extends View implements TintableBackgroundView {
